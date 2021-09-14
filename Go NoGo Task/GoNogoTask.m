@@ -1,6 +1,6 @@
 % ---Go/No-go Task---
 % Press key if green circle is on screen, do not press if red circle is on screen
-%
+% 
 % Marielle L. Darwin | April 20 2021
 
 clear all;
